@@ -1,0 +1,86 @@
+
+
+
+#navTop{
+	background-color: black;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	position: fixed;
+	width: 100%
+	
+}
+
+nav ul{
+	list-style-type: none;
+	font-size: 1.7em;
+}
+
+nav a{
+	text-decoration: none;
+	color: white;
+}
+
+header{
+	background-image: url(../img/header-pic2.jpg);
+	background-size: cover;
+}
+
+.header{
+	height: 600px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	
+	
+}
+
+.titre{
+	font-size: 4em;
+	font-weight: bold;
+	color: black;
+}
+
+
+.img-margin{
+	margin: 0px;
+	padding: 0px;
+}
+
+.container-footer{
+	margin-top: 20px;
+	height: 225px;
+	background-color: black;
+}
+
+
+/* FORMULAIRE */ 
+
+form {
+   max-width: 600px;
+   text-align: center;
+}
+
+.titreForm{
+	color: white;
+}
+
+/* FIN FORMULAIRE */ 
+
+.git{
+	height: 50px;
+	width: auto;
+}
+
+.odyssey{
+	height: 50px;
+	width: auto;
+}
+
+.titrePhoto{
+	text-align: center;
+	height: 160px;
+	padding-top: 50px;
+	font-weight: bold;
+	font-size: 2.7em;
+	text-decoration: underline;
+}
